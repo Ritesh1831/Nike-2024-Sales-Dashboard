@@ -7,6 +7,11 @@ To analyze Nike’s 2024 product-wise sales performance and build an interactive
 
 ---
 
+## Dataset Used
+- <a herf="https://github.com/Ritesh1831/Nike-2024-Sales-Dashboard/blob/main/nike_sales_2024.csv"> Nike Sales 2024</a>
+
+---
+
 ## 📊 Questions / KPIs Answered
 
 - Which sub-categories generated the highest and lowest revenue?
@@ -37,6 +42,10 @@ To analyze Nike’s 2024 product-wise sales performance and build an interactive
 ## ✅ Conclusion
 
 This Excel-based dashboard enables a quick and clear overview of Nike’s 2024 sub-category sales performance. With visual and interactive tools, it supports better decision-making in category focus, inventory planning, and sales strategy.
+
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/a1e22d1b-644a-4f51-9a1c-202aae606651)
+
 
 ---
 
