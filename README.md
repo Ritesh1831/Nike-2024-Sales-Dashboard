@@ -19,11 +19,10 @@ To analyze Nike’s 2024 product-wise sales performance and build an interactive
 
 ## ⚙️ Process
 
-1. **Data Cleaning**: Removed blank rows, standardized formats, and converted revenue values to millions (M).
-2. **Pivot Table Creation**: Summarized revenue by sub-category using a pivot table.
-3. **Slicer Integration**: Added slicers for interactive filtering by sub-category.
-4. **Chart Visualization**: Created a horizontal bar chart with data labels for clear comparison.
-5. **Dashboard Assembly**: Combined all components into a visually appealing and interactive Excel dashboard.
+1. **Pivot Table Creation**: Summarized revenue by sub-category using a pivot table.
+2. **Slicer Integration**: Added slicers for interactive filtering by sub-category.
+3. **Chart Visualization**: Created a horizontal bar chart with data labels for clear comparison.
+4. **Dashboard Assembly**: Combined all components into a visually appealing and interactive Excel dashboard.
 
 ---
 
