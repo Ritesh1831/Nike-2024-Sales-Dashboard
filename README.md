@@ -8,7 +8,7 @@ To analyze Nike’s 2024 product-wise sales performance and build an interactive
 ---
 
 ## Dataset Used
-- <a herf="https://github.com/Ritesh1831/Nike-2024-Sales-Dashboard/blob/main/nike_sales_2024.csv"> Nike Sales 2024</a>
+- <a herf="https://github.com/Ritesh1831/Nike-2024-Sales-Dashboard/blob/main/nike_sales_2024.csv">Nike Sales 2024</a>
 
 ---
 
